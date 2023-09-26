@@ -7,6 +7,10 @@ const server = app.listen(process.env.PORT, () => {
     `server runing port:${process.env.PORT} in mode:${process.env.NODE_ENV}`
   );
 });
+//** HTTP GET Request  */
+app.get("/", (req, res) => {
+  res.status(200).json("Home GET Request");
+});
 
 process.on("unhandledRejection", (err) => {
   console.log(`Error:${err.message}`);
