@@ -1,0 +1,275 @@
+[
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": 245.67,
+        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669052976/Croma%20Assets/Communication/Mobiles/Images/261166_0_uzzyyp.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669052972/Croma%20Assets/Communication/Mobiles/Images/261166_2_tztca7.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669052976/Croma%20Assets/Communication/Mobiles/Images/261166_1_giolus.png?tr=w-640"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+        "price": 150.32,
+        "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1689156305/Croma%20Assets/Communication/Wearable%20Devices/Images/273194_2_rjuxcq.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1689156306/Croma%20Assets/Communication/Wearable%20Devices/Images/273194_1_tiweir.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1689156351/Croma%20Assets/Communication/Wearable%20Devices/Images/273194_3_udotuz.png?tr=w-640"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Dell Inspiron 3511 Laptop",
+        "price": 440.57,
+        "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563878/Croma%20Assets/Computers%20Peripherals/Laptop/Images/257027_0_cgyhmd.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563881/Croma%20Assets/Computers%20Peripherals/Laptop/Images/257027_1_jcszep.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1685346534/Croma%20Assets/Computers%20Peripherals/Laptop/Images/257027_2_calglr.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563880/Croma%20Assets/Computers%20Peripherals/Laptop/Images/257027_5_elvevk.png?tr=w-640"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3 Laptop",
+        "price": 250.45,
+        "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683562289/Croma%20Assets/Computers%20Peripherals/Laptop/Images/270303_3_wotjhy.png?tr=w-640"
+          },
+          {
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1685346293/Croma%20Assets/Computers%20Peripherals/Laptop/Images/270303_2_einj7l.png?tr=w-640"
+          },
+          {
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683562288/Croma%20Assets/Computers%20Peripherals/Laptop/Images/270303_1_l3yldy.png?tr=w-640"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "ASUS VivoBook 15 Laptop",
+        "price": 767.32,
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1682591429/Croma%20Assets/Computers%20Peripherals/Laptop/Images/272241_zldcvn.png?tr=w-640"
+          },
+          {
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1682591426/Croma%20Assets/Computers%20Peripherals/Laptop/Images/272241_4_zwrlp6.png?tr=w-640"
+          },
+          {
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1682591424/Croma%20Assets/Computers%20Peripherals/Laptop/Images/272241_9_mzo0tb.png?tr=w-640"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+        "price": 15.46,
+        "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1681701365/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/272067_dwzhb2.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1681701365/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/272067_4_wtblyt.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1681701365/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/272067_5_bswo64.png?tr=w-640"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    }
+    ,
+    {
+        "name": "SONY Bluetooth Party Speaker(Jet Bass Booster,2.0Channel,Black)",
+        "price": 20.46,
+        "description": " Party hard and for long by getting the Sony V13 Hi-Fi Party Speaker online. The tough front and bottom built makes this party speaker crafted for long party hours. Music reaches every corner of the party as the two powerful tweeters and jet bass booster spread the rich sound far and wide. The two tweeters are upward-facing and highly efficient to spread the sound higher, expanding the range of your playlist. Sony V13 Hi-Fi Party Speaker features the Jet Bass Booster that is designed with a bass-reflex duct structure that carries the sound over long distances. With the microphone input, you can have a fun time with your friends in karaoke competition. You can also connect your guitar to the microphone input to make the device a guitar amplifier and enjoy your favourite songs over guitar. You get three guitar modes  Clean Mode for clean sound, Overdrive Mode to clear any kind of distorted music and Bass Mode for bass guitar. Explore more fun by downloading Fiestable app from Sony Music Center app. Control music and lighting, and make the party more exciting. The continuous speaker lights give a proper nightclub or disco party vibe to your house party. Using this app you can also take part in karaoke competitions or share status on social media to become Party King. Cater to the musical taste of all your guests as they can also add their favourite tunes to the playlist through Wi-Fi. Buy Sony V13 Hi-Fi Party Speaker as it also comes with Bluetooth Technology turn up the party level as you can connect up to 50-compatible Bluetooth party speakers. Up to 3 people can connect their smartphones through Bluetooth and control the party music. Carry the music along with you wherever you go with an easy-to-use handle. You can also play songs stored in a USB drive.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1675866077/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/228565_0_puyto6.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1675866075/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/228565_2_cdavvz.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1675866102/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/228565_1_h0zabr.jpg?tr=w-640"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "croma",
+        "stock": 5,
+        "numOfReviews": 3,
+        "reviews": []
+    }
+    ,
+    {
+        "name": "OnePlus Y1S Pro 138 cm (55 inch) 4K Ultra HD LED Android TV",
+        "price": 35,
+        "description": "Enjoy the amazing features by getting the OnePlus Y1S Pro 138 cm (55 inch) 4K Ultra HD LED Android TV with Built-in Google Assistant online. With 4K UHD resolution, you may enjoy breathtaking crystal color. This produces more realistic images by providing stunning color, enhanced brightness, and great contrast details. Dolby Audio employs advanced processing technologies to produce a dynamic audio experience that immerses you in your favorite content. Entertainment has never sounded better, from sports games to your favorite TV shows. Buy OnePlus Y Series 138 cm (55 inch) LED 4K Ultra HD TV with Built-in Google Assistant online and get to enjoy the various features of this amazing Smart TV. 139 cm (55”) 4K Display adds better definition and clarity to the TV .HDMI 2.1 Port enables greater resolutions at faster frame rates",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683558577/Croma%20Assets/Entertainment/Television/Images/265598_0_xllhhw.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683558579/Croma%20Assets/Entertainment/Television/Images/265598_1_icouvp.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683558579/Croma%20Assets/Entertainment/Television/Images/265598_2_e5xeeb.png?tr=w-640"
+            }
+        ],
+        "category": "Electonics",
+        "seller": "croma",
+        "stock": 7,
+        "numOfReviews": 4,
+        "reviews": []
+    }
+    ,
+    {
+        "name": "SAMSUNG Crystal 4K iSmart 138 cm (55 inch) 4K Ultra HD LED Tizen TV with Crystal Processor 4K",
+        "price": 30,
+        "description": "The SAMSUNG Crystal 4K iSmart 138 cm (55 inch) 4K Ultra HD LED Tizen TV with Crystal Processor 4K provides the ultimate in-home entertainment. With the 20W speaker and Dolby Atmos technology, you can immerse yourself in rich and immersive sound. You can quickly connect your mobile device to the TV and access a variety of materials and functions with Mobile Camera Support and Universal Guide. You may access a variety of apps and streaming services with its Tizen Smart TV operating system, including Apple TV, Netflix, Prime Video, Disney+Hotstar, and Youtube. You can effortlessly connect your devices and experience seamless streaming and surfing thanks to built-in WiFi, HDMI, USB, and Bluetooth connectivity. The SAMSUNG Crystal 4K iSmart 138 cm (55 inch) 4K Ultra HD LED Tizen TV with Crystal Processor 4K incorporates an AI Speaker that enhances the convenience of viewing TV by allowing you to control it with voice commands.",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1688711590/Croma%20Assets/Entertainment/Television/Images/274147_pebua1.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1688711590/Croma%20Assets/Entertainment/Television/Images/274147_4_mrndsd.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1688711588/Croma%20Assets/Entertainment/Television/Images/274147_3_gc9xqh.png?tr=w-640"
+            }
+        ],
+        "category": "Electonics",
+        "seller": "croma",
+        "stock": 8,
+        "numOfReviews": 1,
+        "reviews": []
+    }
+    ,
+    {
+        "name": "Apple MacBook Air 2023 (M2, 15 inch, 8GB, 512GB, macOS, Silver)",
+        "price": 100,
+        "description": "The Apple MacBook Air 2023 transforms your computing experience with its svelte style, robust features, and cutting-edge technology. You may connect a range of external devices and peripherals with Thunderbolt, USB ports, WiFi, and Bluetooth 5.3, increasing your work and entertainment possibilities. It offers a six-speaker sound system with Dolby Digital Plus and Dolby Atmos for immersive audio experiences. Apple MacBook Air 2023 ‘s unmatched speed, efficiency, and responsiveness, made possible by the ground-breaking Apple M2 chip, let you complete jobs with a remarkable degree of ease and accuracy",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1690293529/Croma%20Assets/Computers%20Peripherals/Laptop/Images/273867_vfvtxl.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1687503069/Croma%20Assets/Computers%20Peripherals/Laptop/Images/273867_1_cp7svv.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1690293532/Croma%20Assets/Computers%20Peripherals/Laptop/Images/273867_3_lnveyg.png?tr=w-640"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "croma",
+        "stock": 3,
+        "numOfReviews": 8,
+        "reviews": []
+    }
+    ,
+    {
+        "name":"VOLTAS Vectra Pearl 4 in 1 Convertible 1.3 Ton 3 Star Inverter Split AC",
+        "price": 70,
+        "description": "Get a stylish and efficient cooling solution home by bringing the Voltas 163V Vectra Pearl 4 in 1 Convertible 1.3 Ton 3 Star Inverter Split AC with Anti Dust Filter. This air conditioner works well even in extreme temperature environments of 52 degrees Celsius. Comes with a turbo function that will be helpful to cool or heat your room quickly and effectively. It also has a variety of useful features like self-diagnosis, auto cleaning and 4-step adjustable cooling.The Voltas 163V Vectra Pearl 4 in 1 Convertible 1.3 Ton 3 Star Inverter Split AC with Anti Dust Filter is designed with modern and more convenient technology that provides additional comfort every day",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1681446457/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/270260_0_oetbjg.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1681446453/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/270260_1_wr4l4d.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1684501883/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/270260_2_j3thw4.png?tr=w-640"
+            }
+        ],
+        "category": "Home",
+        "seller": "croma",
+        "stock": 4,
+        "numOfReviews": 5,
+        "reviews": []
+    }
+    ,
+    {
+        "name":"SONY WH-1000XM5 Bluetooth Headset with Mic (Auto Noise Cancelling Optimizer, Over Ear, Silver)",
+        "price": 30,
+        "description": " Enjoy immersive sound effects with SONY WH-1000XM5 Bluetooth Headset with Mic. Packed with a host of features, this pair of headphones is designed with Bluetooth 5.2 support for unparalleled performance and significant stability. Thanks to its wireless feature, now you do not need to untangle your headphones every time you want to listen to songs. Furthermore, it comes with Auto Noise Canceling Optimizer which monitors the noise canceling performance by pursuing the wearing conditions of the headphones. The exclusively designed carrying case makes this gadget travel-friendly. Thinking about its outstanding features, the price of the SONY WH-1000XM5 Bluetooth Headset with Mic seems quite fair",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669124952/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/262566_0_emihyi.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669124943/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/262566_1_gdzwxg.png?tr=w-640"
+            },
+            {
+                "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1669124947/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/262566_7_xngm9b.png?tr=w-640"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "croma",
+        "stock": 7,
+        "numOfReviews": 5,
+        "reviews": []
+    }
+]
