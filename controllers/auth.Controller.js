@@ -10,11 +10,6 @@ exports.registerUser = catchAsyncError(async (req, res, next) => {
   const { name, email, password } = req.body;
   let avatar;
   let BASE_URL = process.env.BACKEND_URL;
-
-  if (process.env.NODE_ENV == "production") {
-    BASE_URL = `${req.protocol}://${req.get("host")}`;
-  }
-  console.log(process.env.NODE_ENV);
   if (req.file) {
     avatar = `${BASE_URL}/Uploads/user/${req.file.originalname}`;
   }
@@ -166,9 +161,6 @@ exports.updateProfile = catchAsyncError(async (req, res, next) => {
   };
   let avatar;
   let BASE_URL = process.env.BACKEND_URL;
-  if (process.env.NODE_ENV === "production") {
-    BASE_URL = `${req.protocol}://${req.get("host")}`;
-  }
   if (req.file) {
     avatar = `${BASE_URL}/Uploads/user/${req.file.originalname}`;
     newUserData = { ...newUserData, avatar };
