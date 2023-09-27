@@ -5,6 +5,7 @@ const ErrorHandler = require("../utils/error.Handler");
 const sendToken = require("../utils/jwt");
 const crypto = require("crypto");
 
+
 // Register user POST:http://localhost:8000/api/auth/register
 exports.registerUser = catchAsyncError(async (req, res, next) => {
   const { name, email, password } = req.body;
@@ -22,6 +23,8 @@ exports.registerUser = catchAsyncError(async (req, res, next) => {
   const token = user.getJwtToken();
   sendToken(user, 201, res);
 });
+
+
 //login user POST:http://localhost:8000/api/auth/login
 exports.loginUser = catchAsyncError(async (req, res, next) => {
   const { email, password } = req.body;
@@ -67,9 +70,6 @@ exports.forgotPassword = catchAsyncError(async (req, res, next) => {
   await user.save({ validateBeforeSave: false });
 
   let BASE_URL = process.env.FRONTEND_URL;
-  if (process.env.NODE_ENV === "production") {
-    BASE_URL = `${req.protocol}://${req.get("host")}`;
-  }
   // Create reset Url
   const resetUrl = `${BASE_URL}/password/reset/${resetToken}`;
   const message = `Your password reset url is as follows \n\n
